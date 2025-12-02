@@ -10,14 +10,30 @@ Eager to learn!!!
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=albinmmathew&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=albinmmathew&theme=blue_navy&hide_border=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=albinmmathew&theme=blue_navy&hide_border=false)<br/> <br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=albinmmathew&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
+<!--
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/albinmmathew/albinmmathew/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/albinmmathew/albinmmathew/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/albinmmathew/albinmmathew/output/github-contribution-grid-snake.svg">
 </picture>
+-->
+
+# 🐍 Contribution Snake
+
+<div align="center" style="margin-top: 20px;">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/albinmmathew/albinmmathew/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/albinmmathew/albinmmathew/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/albinmmathew/albinmmathew/output/github-contribution-grid-sake.svg" style="border-radius: 10px; border: 2px solid #1f6feb; padding: 5px; background: #0d1117;">
+</picture>
+
+</div>
+
+---
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
